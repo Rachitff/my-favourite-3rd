@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background:linear-gradient(#ff00ff 0%,#1556ac 100%) ;
+}
+img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+p {
+    font-size: 50px;
+}
+h1,h2 {
+ font-size: 75px;
+}
+.menu {
+ list-style: none;
+ display: inline;
+}
